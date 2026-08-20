@@ -1,0 +1,10 @@
+com\mindbrief\service\WebExtractor.class
+com\mindbrief\model\SummaryRecord.class
+com\mindbrief\service\AISummarizer.class
+com\mindbrief\service\ExtractiveSummarizer.class
+com\mindbrief\db\DatabaseManager.class
+com\mindbrief\model\SummaryRecord$Builder.class
+com\mindbrief\service\SummarizerFactory.class
+com\mindbrief\Main.class
+com\mindbrief\service\SummarizerStrategy.class
+com\mindbrief\db\SummaryDAO.class
